@@ -1,0 +1,85 @@
+[+] Date: 2024/11/27 23:54:30
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 207A682BD17DDB825886B001BF95610C
+---
+[+] Date: 2024/11/27 23:58:18
+[+] Target URL: https://chatgpt.com/c/6746a859-dcb8-800e-ba5d-d4dce703e496
+[+] Cookie Name: __cf_bm
+[+] Cookie Value: ReH7fPZqkDVNNFUZeV64rnuNfAYP1FbPZANMPPldfOY-1732732097-1.0.1.1-8uKFVIR36Hn7QWjN0u0cK2Msl4WQHGUKKdwwWOx75t_TwNg0iFiofgrEgQb4MctQ06rVGVCIqcEpdV31OEh9LA
+---
+[+] Date: 2024/11/28 01:18:31
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: D1BBEF89EEFB10872A64047734B3BF2E
+---
+[+] Date: 2024/11/28 01:22:10
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: EEE61830E582DFD92D9AC8D385B7183C
+---
+[+] Date: 2024/11/28 01:26:27
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 91DADEDC0BA44744AB76332F788EFC27
+---
+[+] Date: 2024/11/29 00:42:38
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: B7D86F57A80C716E5688309CB92E91E4
+---
+[+] Date: 2024/11/29 01:24:09
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: EE4ABB5A0E4A4A4A5728FB165E9037CD
+---
+[+] Date: 2024/11/29 11:21:16
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 994D964A1440DD0C11BD0E4FBDF7A1BC
+---
+[+] Date: 2024/11/29 11:25:22
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 3FC1618C807800CF3AE1D01FF05C47E3
+---
+[+] Date: 2024/11/29 11:27:22
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: B55753C74DD929B78879EB83E0F3C721
+---
+[+] Date: 2024/11/29 11:30:41
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 3507A9EFAD0E59E4D5FCA07075E0672B
+---
+[+] Date: 2024/11/29 11:34:59
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 5253714CACAD74114B3FD11D6361956C
+---
+[+] Date: 2024/11/29 11:38:05
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 85E5069D8B047C9EDBFE3ADF04D1663E
+---
+[+] Date: 2024/11/29 11:44:01
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: B7C12A9B7F992CBD5BA7708E9BF9B680
+---
+[+] Date: 2024/11/29 12:15:39
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 19AFD8C75A04890A5C0978D60E9B953E
+---
+[+] Date: 2024/11/29 12:17:16
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 1D4AB56D49CD81D37A4226E2DB4D8246
+---
+[+] Date: 2024/11/29 13:10:01
+[+] Target URL: https://demo.testfire.net/login.jsp
+[+] Cookie Name: JSESSIONID
+[+] Cookie Value: 8733BE81D09DBED12298A4343FB941E3
+---
